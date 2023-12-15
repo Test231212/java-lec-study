@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class GugudanEx01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("단 수를 입력하세요, 바위(1), 보(2): ");
+        System.out.println("단 수를 입력하세요 , 바위(1), 보(2): ");
         int user = sc.nextInt();
 
         for (int x = 2; x < 9; x++) { //2단부터 9단까지
