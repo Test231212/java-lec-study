@@ -4,16 +4,16 @@ public class CalculatorApp {
     public static void main(String[] args) {
         Calculator cal = new Calculator();
         int result = cal.add(50, 80);
-        System.out.println("add : "+result);
+        System.out.println("add : " +result);
 
         int result2 = cal.minus(50, 80);
-        System.out.println("minus : "+result2);
+        System.out.println("minus : " +result2);
 
         int result3 = cal.devide(50, 80);
-        System.out.println("devide : "+result3);
+        System.out.println("devide : " +result3);
 
         int result4 = cal.multi(50, 80);
-        System.out.println("multi : "+result4);
+        System.out.println("multi : " +result4);
 
 
     }
