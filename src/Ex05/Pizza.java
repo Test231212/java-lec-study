@@ -1,12 +1,12 @@
-package ex04;
+package Ex05;
 
-public class Pizza03 {
+public class Pizza {
     private String toppings;
     private int radius;
     static final double PI = 3.141592;
     static int count = 0;
 
-    public Pizza03(String toppings){
+    public Pizza(String toppings){
         this.toppings = toppings;
         count++;
     }

@@ -1,4 +1,4 @@
-package ex04;
+package Ex05;
 
 public class ArrayArgumentTest {
 

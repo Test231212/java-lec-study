@@ -1,6 +1,6 @@
-package ex04;
+package Ex05;
 
-public class Mymath02 {
+public class Mymath {
     public static int abs(int x) { return x>0?x:-x; }
     public static int power(int base, int exponent) {
         int result = 1;

@@ -1,4 +1,4 @@
-package ex04;
+package Ex05;
 
 class Pizza002 {
     int radius;

@@ -1,0 +1,9 @@
+package Ex05;
+
+import Ex05.Mymath;
+
+public class MymathTest {
+    public static void main(String[] args) {
+        System.out.println("10의 3승은 "+ Mymath.power(10, 3));
+    }
+}
