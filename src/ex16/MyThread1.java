@@ -1,6 +1,6 @@
 package ex16;
 
-public class MyThread1 extends Thread {
+class MyThread1 extends Thread {
     Printer prn;
     int[] myarr = { 10, 20, 30, 40, 50 };
 
